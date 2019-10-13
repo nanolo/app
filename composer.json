@@ -1,0 +1,13 @@
+{
+  "name": "nanolo/app",
+  "description": "Nanolo App",
+  "keywords": [
+    "php",
+    "nanolo"
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1.0",
+    "nanolo/nali": "dev-master"
+  }
+}
